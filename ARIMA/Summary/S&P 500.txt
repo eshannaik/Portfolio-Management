@@ -2,8 +2,8 @@
 ==============================================================================
 Dep. Variable:                  ^GSPC   No. Observations:                  750
 Model:                 ARIMA(0, 0, 1)   Log Likelihood                2429.144
-Date:                Wed, 31 Dec 2025   AIC                          -4852.289
-Time:                        14:42:20   BIC                          -4838.428
+Date:                Sat, 10 Jan 2026   AIC                          -4852.289
+Time:                        20:21:12   BIC                          -4838.428
 Sample:                             0   HQIC                         -4846.948
                                 - 750                                         
 Covariance Type:                  opg                                         

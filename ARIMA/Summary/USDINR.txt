@@ -2,8 +2,8 @@
 ==============================================================================
 Dep. Variable:               USDINR=X   No. Observations:                  778
 Model:                 ARIMA(0, 0, 1)   Log Likelihood                3551.978
-Date:                Wed, 31 Dec 2025   AIC                          -7097.956
-Time:                        14:42:20   BIC                          -7083.986
+Date:                Sat, 10 Jan 2026   AIC                          -7097.956
+Time:                        20:21:12   BIC                          -7083.986
 Sample:                             0   HQIC                         -7092.583
                                 - 778                                         
 Covariance Type:                  opg                                         

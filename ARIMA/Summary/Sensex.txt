@@ -2,8 +2,8 @@
 ==============================================================================
 Dep. Variable:                 ^BSESN   No. Observations:                  737
 Model:                 ARIMA(0, 0, 1)   Log Likelihood                2555.540
-Date:                Wed, 31 Dec 2025   AIC                          -5105.080
-Time:                        14:42:20   BIC                          -5091.272
+Date:                Sat, 10 Jan 2026   AIC                          -5105.080
+Time:                        19:35:29   BIC                          -5091.272
 Sample:                             0   HQIC                         -5099.755
                                 - 737                                         
 Covariance Type:                  opg                                         

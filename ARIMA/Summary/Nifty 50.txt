@@ -2,8 +2,8 @@
 ==============================================================================
 Dep. Variable:                  ^NSEI   No. Observations:                  739
 Model:                 ARIMA(0, 0, 1)   Log Likelihood                2560.346
-Date:                Wed, 31 Dec 2025   AIC                          -5114.693
-Time:                        14:42:20   BIC                          -5100.877
+Date:                Sat, 10 Jan 2026   AIC                          -5114.693
+Time:                        20:21:12   BIC                          -5100.877
 Sample:                             0   HQIC                         -5109.366
                                 - 739                                         
 Covariance Type:                  opg                                         

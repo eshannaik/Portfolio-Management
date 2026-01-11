@@ -2,8 +2,8 @@
 ==============================================================================
 Dep. Variable:                   CL=F   No. Observations:                  752
 Model:                 ARIMA(0, 0, 1)   Log Likelihood                1881.412
-Date:                Wed, 31 Dec 2025   AIC                          -3756.824
-Time:                        14:42:20   BIC                          -3742.955
+Date:                Sat, 10 Jan 2026   AIC                          -3756.824
+Time:                        20:21:12   BIC                          -3742.955
 Sample:                             0   HQIC                         -3751.481
                                 - 752                                         
 Covariance Type:                  opg                                         
