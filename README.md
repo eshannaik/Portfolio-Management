@@ -6,6 +6,7 @@
   </p>
 </div>
 
+<b>Assets Considered</b>
 <div>
 The portfolio consists of the following assets, chosen to represent different asset classes and geographies
   <ul>
