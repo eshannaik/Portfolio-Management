@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    This project
+    This project is a multi-asset portfolio management project. In this project I deal with portfolio construction and risk analysis of historical data using traditional finance       techniques.The goal of this project is the compare different portfolios, using different strategies and understand the risk to reward ratio of each of these portfolios, using the last 3 years financial data.The analysis is performed on the daily log return data across a multi asset set of global assets.
   </p>
 </div>
 
@@ -18,22 +18,22 @@ The portfolio consists of the following assets, chosen to represent different as
 </div>
 
 <div>
-  Data Transformation
+  <b>Data Transformation</b>
 
     Prices are transformed into log returns to ensure stationarity and comparability across assets.
     Log returns are used throughout for statistical modeling and portfolio optimization.
     
-  Correlation & Diversification Analysis
+  <b>Correlation & Diversification Analysis</b>
 
     Static correlation matrix to assess long-term relationships.
     60-day rolling correlations to capture time-varying dependencies, particularly with Gold as a defensive asset.
     
-  Volatility Modeling (GARCH)
+  <b>Volatility Modeling (GARCH)</b>
 
     The GARCH models is applied to every individual asset returns to analyze the volatility of the asset.
     This step focuses on risk behavior, not price forecasting.
   
-  Portfolio Construction Strategies
+  <b>Portfolio Construction Strategies</b>
   
     The following portfolios are constructed and compared:
       1) Equal Weight Portfolio
@@ -43,13 +43,13 @@ The portfolio consists of the following assets, chosen to represent different as
     All portfolios are subject to:
       Fully invested constraint (weights sum to 1)
   
-  Efficient Frontier
+  <b>Efficient Frontier</b>
   
     The efficient frontier is made using the Markowitz Mean–Variance Optimization.
     Portfolios along the frontier shows the trade-off between expected return and volatility.
     A representative portfolio is selected for backtesting.
   
-  Backtesting & Performance Evaluation
+  <b>Backtesting & Performance Evaluation</b>
   
     Each portfolio is backtested over 3 years of data and evaluated on:
       1) Cumulative Returns
@@ -61,14 +61,14 @@ The portfolio consists of the following assets, chosen to represent different as
 </div>
 
 <div>
-  Key Insights
+  <b>Key Insights</b>
 
     1) The efficient frontier portfolio achieves the highest long-term returns but with higher volatility and deeper drawdowns.
     2) Equal weight and minimum variance portfolios offer more stable performance with lower risk.
     3) Rolling correlations highlight that diversification benefits vary over time, especially during periods of market stress.
     4) Results reinforce the classic risk–return trade-off central to Modern Portfolio Theory.
 
-  Visualizations Included
+  <b>Visualizations Included</b>
 
     1) Asset correlation matrix
     2) Rolling correlations with Gold
@@ -78,7 +78,7 @@ The portfolio consists of the following assets, chosen to represent different as
     6) Drawdown (underwater) plots
     7) CAGR vs Max Drawdown comparison
 
-  Limitations & Assumptions
+  <b>Limitations & Assumptions</b>
 
     1) Expected returns and covariances are estimated from historical data.
     2) No transaction costs, slippage, or rebalancing costs are included.
@@ -87,7 +87,7 @@ The portfolio consists of the following assets, chosen to represent different as
 </div>
 
 <div>
-  Future Improvements
+  <b>Future Improvements</b>
 
     1) Regime-based portfolio optimization
     2) Dynamic rebalancing strategies
