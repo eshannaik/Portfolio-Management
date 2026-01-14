@@ -41,9 +41,6 @@ The portfolio consists of the following assets, chosen to represent different as
       2) Minimum Variance Portfolio
       3) Mean–Variance Optimized Portfolio (Efficient Frontier)
   
-    All portfolios are subject to:
-      Fully invested constraint (weights sum to 1)
-  
   <b>Efficient Frontier</b>
   
     The efficient frontier is made using the Markowitz Mean–Variance Optimization.
