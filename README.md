@@ -2,7 +2,8 @@
 
 <div>
   <p>
-    This project is a multi-asset portfolio management project. In this project I deal with portfolio construction and risk analysis of historical data using traditional finance       techniques.The goal of this project is the compare different portfolios, using different strategies and understand the risk to reward ratio of each of these portfolios, using the last 3 years financial data.The analysis is performed on the daily log return data across a multi asset set of global assets.
+    This project is a multi-asset portfolio management project. In this project I deal with portfolio construction and risk analysis of historical data using traditional finance techniques.The goal of this project is the compare different portfolios, using different strategies and understand the risk to reward ratio of each of these portfolios, using the last 3 years financial data.The analysis is performed on the daily log return data across a multi asset set of global assets.
+    Blog Link - https://medium.com/@eshannaik96/portfolio-management-087208428a52?postPublishedType=initial
   </p>
 </div>
 
