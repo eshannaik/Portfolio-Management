@@ -40,6 +40,7 @@ The portfolio consists of the following assets, chosen to represent different as
       1) Equal Weight Portfolio
       2) Minimum Variance Portfolio
       3) Mean–Variance Optimized Portfolio (Efficient Frontier)
+      4) Regime Based Allocation Portfolio
   
   <b>Efficient Frontier</b>
   
